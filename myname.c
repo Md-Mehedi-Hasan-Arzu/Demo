@@ -8,3 +8,6 @@ int main()
 
 
 //https://docs.github.com/en/get-started/git-basics/
+
+
+//here you can find basic git commands
