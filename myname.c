@@ -3,4 +3,4 @@
 
 
 
-today is departmental orentation of our junior batch
+today is departmental orentation of our junior batch.
